@@ -3,6 +3,7 @@
 ## 🗓️ 주요 기능 개발 로그
 - **2025-05-07**  
   깃허브 주소 개설
+  
 
 ## 📘 프로젝트 소개
 시각장애인을 위한 점자 기반 채팅 인터페이스입니다.
@@ -13,9 +14,15 @@
 - 아두이노 기반의 IOT 프로젝트
 
 ## 🧾 설치 방법
+0. Github 아이디를 만듭니다.
+1. Git을 다운로드 합니다.
+   처음이신분은 아래 링크에서 다운로드 하는 방법을 참고하세요!  
+👉 [https://www.youtube.com/watch?v=iYkLrXobBbA](https://www.youtube.com/watch?v=iYkLrXobBbA)
+2. Gitbash를 열고, 아래 내용을 복/붙 합니다.
 ```bash
 git clone https://github.com/username/chatbraille.git
 ```
+3. 만들어진 폴더에 `cd`(change directory) 명령어를 사용하여 들어갑니다.
 ```bash
 cd chatbraille
 ```
