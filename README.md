@@ -15,6 +15,8 @@
 ## 🧾 설치 방법
 ```bash
 git clone https://github.com/username/chatbraille.git
+```
+```bash
 cd chatbraille
 ```
 
