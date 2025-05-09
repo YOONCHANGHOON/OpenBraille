@@ -25,10 +25,6 @@
 ```bash
 git clone https://github.com/username/OpenBraille.git
 ```
-3. 만들어진 폴더에 `cd`(change directory) 명령어를 사용하여 들어갑니다.
-```bash
-cd chatbraille
-```
 
 ## 👤 제작자
 ```bash
