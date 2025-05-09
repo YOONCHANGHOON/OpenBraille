@@ -23,7 +23,7 @@
 👉 [https://www.youtube.com/watch?v=iYkLrXobBbA](https://www.youtube.com/watch?v=iYkLrXobBbA)
 2. Gitbash를 열고, 아래 내용을 복/붙 합니다.
 ```bash
-git clone https://github.com/username/chatbraille.git
+git clone https://github.com/username/OpenBraille.git
 ```
 3. 만들어진 폴더에 `cd`(change directory) 명령어를 사용하여 들어갑니다.
 ```bash
